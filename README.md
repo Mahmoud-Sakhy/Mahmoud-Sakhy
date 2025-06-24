@@ -4,7 +4,17 @@
 
 
 ### About Me
-Hello, I’m Mahmoud Sakhy, a web developer based in El Minia. With a strong foundation in website design, development, and customization, I bring ideas to life with precision and creativity. My experience spans crafting fully responsive and user-friendly designs that not only look stunning but also perform seamlessly across all devices.I take pride in choosing the most appropriate technologies for each project, ensuring that every website I develop is both robust and scalable. Whether it's building from scratch or optimizing an existing platform, my goal is to deliver solutions that drive success and exceed expectations.I am proficient in a variety of front-end technologies, including HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, and Bootstrap. Additionally, I have expertise in RTK Query, Redux Toolkit, Material-UI, and Chakra UI. This diverse skill set allows me to create modern, efficient, and visually appealing websites tailored to meet the unique needs of each client.
+Hello, I’m Mahmoud Sakhy, a web developer based in El Minia. With a strong foundation in website design, development, and customization, I bring ideas to life with precision and creativity.
+
+My experience spans crafting fully responsive and user-friendly designs that not only look stunning but also perform seamlessly across all devices. I take pride in choosing the most appropriate technologies for each project, ensuring that every website I develop is both robust and scalable.
+
+Whether it's building from scratch or optimizing an existing platform, my goal is to deliver solutions that drive success and exceed expectations.
+
+I am proficient in a variety of front-end technologies, including HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, and Bootstrap. Additionally, I have expertise in RTK Query, Redux Toolkit, Material-UI, Chakra UI, and Next.js. I also use modern tools like shadcn/ui for component styling and Sass for writing efficient, maintainable CSS.
+
+This diverse skill set allows me to create modern, efficient, and visually appealing websites tailored to meet the unique needs of each client.
+
+
 
 ---
 
