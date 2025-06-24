@@ -1,6 +1,6 @@
 # Hi, it's Mahmoud Sakhy Anwer 👋
 
-### Professional Front-End Developer | React & TypeScript
+### Professional Front-End Developer | React, Next.js & TypeScript
 
 ---
 
